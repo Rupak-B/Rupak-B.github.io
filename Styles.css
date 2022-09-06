@@ -1,10 +1,32 @@
+li {
+    color: blue;
+ 
+}
 body {
     background-color: black;
     font-size: 1.5rem;    
 }
+h2 {
+    color: white;
+}
 h1 {
     color: red;
+   
 }
+/* Style the header 
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+ Container for flexboxes 
+section {
+    display: -webkit-flex;
+    display: flex;
+}*/
 p {
     color: teal;
 }
@@ -14,4 +36,8 @@ a {
 }
 h4 {
     color: white;
+}
+h3 {
+   
+    color: teal;
 }
