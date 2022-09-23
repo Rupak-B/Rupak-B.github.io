@@ -27,6 +27,9 @@ section {
     display: -webkit-flex;
     display: flex;
 }*/
+.center {
+    text-align: center
+}
 p {
     color: teal;
 }
