@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <title>Optimal Sort</title>
+    <h1>Optimal Sort</h1>
+    <link href="../../Styles.css" rel="stylesheet" />
+  <style>
+      body {
+	  text-align: center;
+      }
+</style>
+  </head>
+  <body>
+    <p> Worked with: Hamza, Darsh<p>
+    <p>Goal: Create a sorting algorithm that is unique and optimize it to be fast.<p>
+    <p>A flowchart explaining the algorithm:<p>
+      <img src="OptimalSort.png" style="width: 40%" />
+    <p>Spreadsheet<p>
+      <a href="https://docs.google.com/spreadsheets/d/17M_WXoHeTpSnQySLMVdKXyA2Pvu4OnvZlFfp_PJfeRM/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/17M_WXoHeTpSnQySLMVdKXyA2Pvu4OnvZlFfp_PJfeRM/edit?usp=sharing</a>
+      
+    <p>Code:<p>
+      <ul>
+   <li>   <a href="https://github.com/Rupak-B/Sorting-Algorithm">https://github.com/Rupak-B/Sorting-Algorithm<a> </li>
+   <li>  <a href="../../CS2.html">Back to the Projects page</a> </li>
+   </ul>
+  </body>
+</html>
