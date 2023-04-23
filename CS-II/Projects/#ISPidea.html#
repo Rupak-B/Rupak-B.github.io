@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Rupak's Digital Portfolio - Why portfolio</title>
+    <link rel="stylesheet" href="Styles.css">
+ <style>
+      body {
+	  text-align: center;
+      }
+</style>
+  </head>
+  <body>
+    
+      <h1>About Me</h1>
+    
+      <p> Hi! My name is Rupak Bhattacharya</p>
+    <p> I am a junior at Allen High School and this is my second year doing computer science. I enjoy math, video games, and robotics, and am apart of the school's robotics club. I have also participated in UIL competitions and TMSCA and made it to state in both TMSCA and Robotics UIL. Volunteering is also something I value and I volunteer at Robotics competitions and at Lowery to get children enthusiastic about Robotics. I am also a part of the schools NHS program and MHS program. I am also a dog person. </p>
+    <p> This is my second year doing computer science and although it was difficlt to learn with a first year CS instructor in Mr. Mayberry I was still able to perserver through the course. I am excited to meet new people in computer science and learning more things about cyber security.</p>
+    <p> Here is a link to my previous courses such as computer science 1</p>
+    <a href="CS1.html">Check out my Computer Science 1 portfolio</a>
+<br>
+    <a href="CS2.html">Check out my Computer Science II portfolio</a>
+    
+<h2>Why is a Digital Portfolio benificial to me?</h2>
+    <p> This is important because it serves as a place to store all of my acomplishments and my growth in Computer Science. It will be a safe place for me to store all of my accomplishments in Computer Science all in one place allowing me to reflect on my progress. This is also a way for me to organize my thoughts in a creative way allowing me to look back at a glance to all of my previous accomplishments. A digital portfolio will also act as a tracker as my skill and knowledge improve. My digital portfolio is also a great asset when applying to a college or getting a job since it allows me to present my skill and accomplishments. This is why I have dedicated time in creating this digital portfolio. </p>
+    <br>
+    <h3>My Portfolio lives at</h3>     <a href="https://github.com/Rupak-B">My Github</a>
+  </body>
+</html>
+

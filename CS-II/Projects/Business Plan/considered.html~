@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <title>Physics Studying App</title>
+    <h1>Considered Ideas for ISP</h1>
+
+  <style>
+      body {
+	  text-align: center;
+      }
+      .essay {
+	  display: inline-block;
+	  text-align: left;
+	  text-indent: 40px;
+	  margin-left: auto;
+	  margin-right: auto;
+      }
+      
+</style>
+    <link href="../../../Styles.css" rel="stylesheet" />
+  </head>
+  <body>
+
+    <div class="essay">
+      <a href="">Cayson's Unity Project</a>
+      <p> Cayson's idea about creating a new Unity based game seems compelling, but for me it contains numerous concerns. The first of which is the lack of clarity in his business plan about what the game is and how it is going to be advertised. The business plan only suggests the idea of a game and target demographic without having a key gernera of the game or what type of game it is. These are the reasons why I rejected the idea of Cayson's Unity game although with a bit more detail I could see myself joing this project. </p>
